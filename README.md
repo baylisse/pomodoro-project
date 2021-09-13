@@ -4,8 +4,8 @@ The technique uses a timer to break down work into intervals, traditionally 25 m
 
 You will implement a Pomodoro timer that follows these steps (simplified from the original technique):
 
-Set the focus duration (default to 25 minutes, no less than 5 or more than 60).
-Set the break duration (default to 5 minutes, no less than 1 or more than 15).
-When the user clicks the "play" button, the timer starts.
-When the focus time expires, an alarm plays and then the break timer starts.
+Set the focus duration (default to 25 minutes, no less than 5 or more than 60)./n
+Set the break duration (default to 5 minutes, no less than 1 or more than 15)./n
+When the user clicks the "play" button, the timer starts./n
+When the focus time expires, an alarm plays and then the break timer starts./n
 When the break time expires, the alarm plays again and then the focus timer starts.
